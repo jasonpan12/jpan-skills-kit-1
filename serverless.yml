@@ -1,0 +1,12 @@
+service: skills-kit-1 # NOTE: update this with your service name
+provider:
+  name: aws
+  runtime: nodejs8.10
+functions:
+  hello:
+    handler: index.clarifaiThis
+    events:
+     - http:
+        path: boxskill
+        method: post
+        cors: true
