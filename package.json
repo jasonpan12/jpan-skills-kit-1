@@ -9,7 +9,6 @@
         "test": "jest --coverage"
     },
     "dependencies": {
-        "aws-sdk": "^2.391.0",
         "box-node-sdk": "^1.24.1",
         "clarifai": "^2.9.0",
         "jest": "^22.4.3",
