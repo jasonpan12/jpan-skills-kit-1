@@ -1,4 +1,4 @@
-# jpan-preview-test
+# jpan-skills-kit-1
 A Node.JS PoC with Box and Clarifai through the Box Skills Kit
 
 # Introduction
