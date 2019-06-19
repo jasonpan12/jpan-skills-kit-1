@@ -12,6 +12,7 @@ The purpose of this app is to demonstrate:
 
 # Usage
 Assuming that the prerequisites are filled, follow these steps in order:
+1. Sign up for a box account at box.com/signup/personal
 1. Follow steps 1-3 at [Build a Box Skill](https://developer.box.com/docs/build-a-box-skill)
 1. Clone this repository to a local directory
 1. Run `npm install`
